@@ -125,7 +125,7 @@ for(var i=0; i<questionAnswerArray.length;i++){
 
   if(i==11){
     if(score>=2){
-    console.log(chalk.green.bold("Congratulations " + chalk.white(userName) + " ! You've cleared Level 3\n"));
+    console.log(chalk.green.bold("Congratulations " + chalk.white(userName) + " ! You've cleared Level 3\n You are a Suits fan"));
       score = 0;
     continue;
    
