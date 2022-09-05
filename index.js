@@ -23,7 +23,7 @@ var questionAnswerArray = [
 },
 {
     question : "What clue finally makes Louis realize Mike didn’t go to Harvard?",
-    options : "a. The Order of the Coif\nb. Law School Trophy\nc. Law School Trophy",
+    options : "a. The Order of the Coif\nb. Law School Trophy\nc. Law School Certificate",
     answer : "a"
 },
 {
